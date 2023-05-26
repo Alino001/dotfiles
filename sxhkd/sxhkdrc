@@ -1,0 +1,23 @@
+# Terminal
+alt + t
+  alacritty
+
+# Firefox
+alt + f
+  firefox
+
+# rofi
+alt + r
+  rofi -show run
+
+# quit bspwm
+shift + alt + {q,r}
+    bspc {quit,wm -r}
+
+# thunar
+alt + e
+  thunar
+
+# FlameScreenShot
+alt + s
+  flameshot gui
