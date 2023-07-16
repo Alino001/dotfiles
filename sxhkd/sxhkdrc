@@ -2,9 +2,9 @@
 alt + t
   alacritty
 
-# Firefox
+# librewolf
 alt + f
-  firefox
+  librewolf
 
 # rofi
 alt + r
