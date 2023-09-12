@@ -42,5 +42,5 @@ fi
 feh --bg-scale /home/alino/wallpaper/hills.jpg &
 exec bspwm & 
 bash /home/alino/.config/polybar/launch.sh --grayblocks &
-sxhkd -c $HOME/.config/sxhkd/sxhkdrc
-
+sxhkd -c $HOME/.config/sxhkd/sxhkdrc ## &
+## xrandr --output *output* --mode 1920x1080
